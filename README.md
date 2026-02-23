@@ -1,6 +1,6 @@
 # Multistage Edge Detection with Canny Algorithms 
- Computer Vision and Image Processing 
-Dr. Hongyu Guo Matthew Harper 
+## Computer Vision and Image Processing 
+Dr. Hongyu Guo , Matthew Harper 
 
 Image features in image processing represent essential visual and mathematical characteristics that 
 convey meaningful information within an image. These features include observable attributes such 
