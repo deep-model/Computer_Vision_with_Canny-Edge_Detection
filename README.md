@@ -3,15 +3,8 @@
 # Multistage Edge Detection with Canny Algorithms 
 <p align="left">
   
-<img width="600" height="400" alt="image" src="https://github.com/deep-model/Computer_Vision_with_Canny-Edge_Detection/blob/main/street_picture_2.jpg" />
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/221e54cb-a21b-4a33-894f-1c262b42a39e" />
-
-</p>
-
-<p align="left">
-  
-<img width="200" height="200" alt="image" src="https://github.com/deep-model/Computer_Vision_with_Canny-Edge_Detection/blob/main/street_picture_2.jpg" />
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/221e54cb-a21b-4a33-894f-1c262b42a39e" />
+<img width="400" height="300" alt="image" src="https://github.com/deep-model/Computer_Vision_with_Canny-Edge_Detection/blob/main/street_picture_2.jpg" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/221e54cb-a21b-4a33-894f-1c262b42a39e" />
 
 </p>
 ## Computer Vision and Image Processing 
