@@ -1,3 +1,5 @@
+https://github.com/deep-model/Computer_Vision_with_Canny-Edge_Detection/blob/main/Final_Project_Report-M.Harper.pdf
+
 # Multistage Edge Detection with Canny Algorithms 
 ## Computer Vision and Image Processing 
 Dr. Hongyu Guo , Matthew Harper 
