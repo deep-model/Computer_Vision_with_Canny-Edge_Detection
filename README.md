@@ -4,17 +4,6 @@
 <img width="600" height="400" alt="image" src="https://github.com/deep-model/Computer_Vision_with_Canny-Edge_Detection/blob/main/street_picture_2.jpg" />
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/221e54cb-a21b-4a33-894f-1c262b42a39e" />
 
- <div class="row">
-  <div class="column">
-     <img width="600" height="400" alt="image" src="https://github.com/deep-model/Computer_Vision_with_Canny-Edge_Detection/blob/main/street_picture_2.jpg" />
-  </div>
-  <div class="column">
-    <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/221e54cb-a21b-4a33-894f-1c262b42a39e" />
-  </div>
-  
-</div> 
-
-
 ## Computer Vision and Image Processing 
 Matthew Harper 
 
