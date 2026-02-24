@@ -7,8 +7,9 @@
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/221e54cb-a21b-4a33-894f-1c262b42a39e" />
 
 </p>
-## Computer Vision and Image Processing 
-Matthew Harper 
+
+# Computer Vision and Image Processing 
+## Matthew Harper 
 
 Image features in image processing represent essential visual and mathematical characteristics that 
 convey meaningful information within an image. These features include observable attributes such 
