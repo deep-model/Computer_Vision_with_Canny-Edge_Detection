@@ -1,6 +1,6 @@
 [Veiw Project White Paper PDF](https://github.com/deep-model/Computer_Vision_with_Canny-Edge_Detection/blob/main/Final_Project_Report-M.Harper.pdf)
 
-# Multistage Edge Detection with Canny Algorithms 
+# Multi-stage Edge Detection with Canny Algorithms 
 <p align="left">
   
 <img width="400" height="300" alt="image" src="https://github.com/deep-model/Computer_Vision_with_Canny-Edge_Detection/blob/main/street_picture_2.jpg" />
